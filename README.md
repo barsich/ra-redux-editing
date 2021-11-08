@@ -1,1 +1,2 @@
-# ra-redux-editing
+# ra-redux-editing [![Build status](https://ci.appveyor.com/api/projects/status/d48vpg4byqa56i4l?svg=true)](https://ci.appveyor.com/project/barsich/ra-redux-editing)
+[GithubPages](https://barsich.github.io/ra-redux-editing/)
